@@ -12,5 +12,8 @@ Multi Neaural Network
 - Backpropagation
 
 How to use
+- python3 myCLF.py train-images-idx3-ubyte.gz train-labels-idx1-ubyte.gz testall-images-idx3-ubyte.gz
 
-python3 myCLF.py train-images-idx3-ubyte.gz train-labels-idx1-ubyte.gz testall-images-idx3-ubyte.gz
+Result
+- Percentage of prediction
+- Prdiction of testall file (prediction.txt)
